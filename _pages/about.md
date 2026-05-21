@@ -7,24 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-[EDIT] Write a short introduction here. One or two paragraphs covering who you are, where you work or study, and your main research interests. Keep it readable — this is the first thing visitors see.
+I am a PhD candidate in Economics at the Universitat Politècnica de València (UPV) and a predoctoral researcher at the eSmart Research Center.
+My research interests lie in applied economics, particularly at the intersection of econometrics and machine learning. As part of the EVALIAX project, I work on public policy evaluation, combining causal inference with explainable AI (XAI) to make policy assessments both rigorous and interpretable
 
-For example:
 
-> I am a [PhD student / postdoctoral researcher / professor] in [field] at [institution]. My research focuses on [topic A], [topic B], and [topic C]. I am particularly interested in [the specific question you care about most].
 
-Research interests
+Recent Updates
 ======
-- [EDIT] Interest 1
-- [EDIT] Interest 2
-- [EDIT] Interest 3
+- **[May 2026]**: *First working paper published*
 
-News
-======
-- **[Month Year]**: [EDIT] e.g. *Paper accepted at [Conference]!*
-- **[Month Year]**: [EDIT] e.g. *Started [new position / project] at [place]*
-- **[Month Year]**: [EDIT] e.g. *Gave a talk at [event]*
 
-Contact
-======
-The best way to reach me is by email at [your.email@domain.com]. You can also find me on [GitHub](https://github.com/[username]) and [Google Scholar]([scholar-url]).
