@@ -1,11 +1,9 @@
 ---
-title: "[EDIT] Project Title"
-excerpt: "[EDIT] Short summary of the project. Add an image with: <br/><img src='/images/project-thumb.png'>"
+title: "Research — Replication code and data"
+excerpt: "Public repository with replication code and data for our work in applied economics and policy evaluation. Each project is self-contained with its own README, code, and (where licensing allows) data.<br/><img src='/images/research-repo-thumb.png'>"
 collection: portfolio
 ---
 
-[EDIT] Detailed description of the project. You can include images, links to code, demos, and papers.
+This repository gathers the replication code and data behind our research in applied economics and policy evaluation, carried out within the **EVALIAX** project. Each subdirectory is a self-contained project with its own README, code, and — where licensing allows — data.
 
-- [Code on GitHub](https://github.com/[EDIT]/project)
-- [Demo](https://[EDIT].com)
-- [Paper](https://[EDIT].com/paper.pdf)
+[View the repository on GitHub](https://github.com/EugeniGil/research-code)

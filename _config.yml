@@ -44,6 +44,9 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'
     collection: publications
+  working_papers:
+    title: 'Working Papers'
+    collection: publications
   conferences:
     title: 'Conference Papers'
     collection: publications
