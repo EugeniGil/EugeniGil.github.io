@@ -1,8 +1,8 @@
 ---
 title: "Causal Random Forests: From Potential Outcomes to Honest Causal Forests"
-collection: teaching
+collection: talks
 type: "Masterclass"
-permalink: /teaching/2026-carma-causal-rf
+permalink: /talks/2026-06-30-causal-rf-carma
 venue: "CARMA International Conference, Universitat Politècnica de València"
 date: 2026-06-30
 location: "Valencia, Spain"
