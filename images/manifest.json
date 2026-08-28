@@ -1,0 +1,11 @@
+{
+  "name": "Eugeni Gil-Ocana",
+  "short_name": "Gil-Ocana",
+  "icons": [
+    { "src": "/images/favicon-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/images/apple-touch-icon-180x180.png", "sizes": "180x180", "type": "image/png" }
+  ],
+  "theme_color": "#3c9a92",
+  "background_color": "#ffffff",
+  "display": "browser"
+}

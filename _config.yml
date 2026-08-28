@@ -1,6 +1,5 @@
 # ==================================================
 # academicpages MAIN CONFIGURATION
-# Edit fields marked [EDIT] with your personal data.
 # ==================================================
 
 # Site Settings
@@ -8,18 +7,19 @@ locale                   : "en-US"
 title                    : "Eugeni Gil-Ocana"
 title_separator          : "-"
 name                     : &name "Eugeni Gil-Ocana"
-description              : &description "Personal academic website"
-url                      : https://EugeniGIl.github.io   # your full GitHub Pages URL
+description              : &description "Eugeni Gil-Ocana — PhD researcher in economics at the Universitat Politècnica de València. Public policy evaluation with causal inference, causal machine learning and explainable AI."
+url                      : https://eugenigil.github.io   # full GitHub Pages URL
 baseurl                  : ""                                   # leave empty if repo is username.github.io
 repository               : "EugeniGil/EugeniGil.github.io"
 google_scholar_stats_use_cdn : true
+og_image                 : "og-image.jpg"   # social-preview card, /images/og-image.jpg
 
 # Site Author (sidebar info)
 author:
-  avatar           : "profile.png"            # place file at /images/profile.png
+  avatar           : "profile.jpg"            # file at /images/profile.jpg
   name             : *name
   pronoun          : null                      # e.g. "he/him", "she/her", "they/them"
-  bio              : "Short bio: 'PhD student at Universitat Politècnica de València.'"
+  bio              : "PhD researcher in economics. Policy evaluation with causal inference and explainable machine learning."
   location         : "València, Spain"
   employer         : "Universitat Politècnica de València"
   uri              : null
@@ -27,7 +27,7 @@ author:
   orcid            : "https://orcid.org/0009-0006-8921-8365"
   googlescholar    : "https://scholar.google.com/citations?user=iCdLpc8AAAAJ&hl=en"
   github           : "EugeniGil"
-  linkedin         : "https://www.linkedin.com/in/eugenio-gil-69a9a511b/"
+  linkedin         : "eugenio-gil-69a9a511b"   # username only - the theme prepends linkedin.com/in/
   twitter          : null
   researchgate     : null
   semantic         : null     # Semantic Scholar

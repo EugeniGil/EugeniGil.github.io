@@ -57,7 +57,7 @@ Skills
 * Cloud and tools
   * AWS (EMR, EC2, SageMaker, Redshift, Glue, Lambda, Athena, S3), Git, Power BI
 * Languages
-  * [EDIT: e.g. Spanish (native), English (C1)]
+  * Spanish (native), English (fluent)
 
 Publications
 ======

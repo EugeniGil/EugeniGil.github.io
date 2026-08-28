@@ -8,17 +8,22 @@ date: 2026-06-30
 location: "Valencia, Spain"
 ---
 
-Masterclass impartida en el congreso **CARMA 2026** para asistentes interesados en inferencia causal con métodos de machine learning. La sesión introdujo los fundamentos teóricos y la implementación práctica de los Causal Random Forests (CRF).
+Masterclass given at the **CARMA 2026** conference for attendees interested in causal inference
+with machine learning methods. The session covered both the theoretical foundations and the
+practical implementation of Causal Random Forests (CRF).
 
-## Contenido
+## Contents
 
-1. **Foundations** — Por qué el ML supervisado falla en causalidad; el problema fundamental de la inferencia causal; el modelo de Rubin con resultados potenciales.
-2. **From Robinson to Double Machine Learning** — Partialling-out y la ecuación de Robinson para estimar efectos causales con controles flexibles.
-3. **Causal Random Forests** — Árboles causales, de kernels a forests, el estimador CRF, honestidad y el criterio de splitting.
-4. **Evidence** — Cómo leer la salida de un CRF; aplicaciones canónicas.
-5. **Practice** — Implementación en `econml`; diagnósticos.
+1. **Foundations** — why supervised ML fails at causality; the fundamental problem of causal
+   inference; the Rubin potential-outcomes model.
+2. **From Robinson to Double Machine Learning** — partialling-out and the Robinson equation for
+   estimating causal effects with flexible controls.
+3. **Causal Random Forests** — causal trees, from kernels to forests, the CRF estimator,
+   honesty and the splitting criterion.
+4. **Evidence** — how to read CRF output; canonical applications.
+5. **Practice** — implementation in `econml`; diagnostics.
 6. **Take-aways**
 
-## Materiales
+## Materials
 
 - [Slides (PDF)](/files/causal_rf_masterclass.pdf)

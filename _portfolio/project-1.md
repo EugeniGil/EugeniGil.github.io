@@ -1,6 +1,6 @@
 ---
 title: "Research — Replication code and data"
-excerpt: "Public repository with replication code and data for our work in applied economics and policy evaluation. Each project is self-contained with its own README, code, and (where licensing allows) data.<br/><img src='/images/research-repo-thumb.png'>"
+excerpt: "Public repository with replication code and data for our work in applied economics and policy evaluation. Each project is self-contained with its own README, code, and (where licensing allows) data."
 collection: portfolio
 ---
 

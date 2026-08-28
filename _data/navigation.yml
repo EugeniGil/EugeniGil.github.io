@@ -2,13 +2,14 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "CV"
-    url: /cv/
-  - title: "Teaching"
-    url: /teaching/
   - title: "Talks"
     url: /talks/
-  - title: "Portfolio"
+  - title: "CV"
+    url: /cv/
+  - title: "Code"
     url: /portfolio/
-  - title: "Blog Posts"
-    url: /year-archive/
+# Re-add when there is content behind them:
+#  - title: "Teaching"
+#    url: /teaching/
+#  - title: "Blog Posts"
+#    url: /year-archive/
