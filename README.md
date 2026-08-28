@@ -45,3 +45,10 @@ Then open <http://localhost:4000>. Alternatively, `docker compose up` uses the b
   multi-megabyte originals — the avatar loads on every page.
 - The theme builds the LinkedIn URL itself, so `author.linkedin` in `_config.yml` must be the
   **username only**, not a full URL.
+- The talk map is not built automatically. The template shipped a workflow that ran
+  `talkmap.ipynb` on every talk edit and pushed the result back to `master`; it depended on
+  `getorg`, last released in 2016, and it failed. The map is not linked from the site
+  (`talkmap_link: false`), so the workflow was removed. To regenerate it by hand, run
+  `python talkmap.py` from the repository root and set `talkmap_link: true`.
+- `.github/TEMPLATE_README.md` is the original academicpages README, kept as a reference for
+  how the upstream theme works.
