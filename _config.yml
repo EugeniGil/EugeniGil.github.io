@@ -13,6 +13,7 @@ baseurl                  : ""                                   # leave empty if
 repository               : "EugeniGil/EugeniGil.github.io"
 google_scholar_stats_use_cdn : true
 og_image                 : "og-image.jpg"   # social-preview card, /images/og-image.jpg
+og_description           : "PhD researcher in economics at the Universitat Politècnica de València. Public policy evaluation with causal inference, causal machine learning and explainable AI."
 
 # Site Author (sidebar info)
 author:
