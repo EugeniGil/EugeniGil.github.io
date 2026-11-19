@@ -24,6 +24,7 @@ with credible methods started.
 Recent updates
 ======
 
+- **[Nov 2026]**: Our CARMA 2026 paper — **["Using website text to improve counterfactual construction in firm-level policy evaluation"]({{ base_path }}/publication/2026-07-01-carma-website-text)** — is in press in the conference proceedings (Editorial Universitat Politècnica de València).
 - **[Sep 2026]**: Presented at **[Data for Policy 2026]({{ base_path }}/talks/2026-09-08-data-for-policy)**
   (Universitat Pompeu Fabra, Barcelona, 8–10 September) — *Transparent policy evaluation through
   causal machine learning*.
