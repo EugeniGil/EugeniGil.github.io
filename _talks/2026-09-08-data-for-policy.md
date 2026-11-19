@@ -40,6 +40,12 @@ accounts) linked into a firm-level panel for 2019–2024: 13,530 firms treated i
 
 ## Materials
 
+- [Published conference abstract — Data for Policy 2026 Book of Abstracts, p. 110](https://doi.org/10.5281/zenodo.22660429)
 - [Slides (PDF)](/files/dfp2026_transparent_policy_evaluation.pdf)
 - [Working paper](https://doi.org/10.21203/rs.3.rs-9912144/v1)
 - [Replication code](https://github.com/EugeniGil/research-code)
+
+Conference abstract citation: Gil-Ocana, E., Garcia-Bernabeu, A., & de Pedraza, P. (2026).
+"Transparent policy evaluation through causal machine learning: An application to SME digital subsidies."
+In *Data for Policy 2026 (DfP'26) Book of Abstracts* (v2, p. 110). Data for Policy CIC.
+[Book DOI](https://doi.org/10.5281/zenodo.22660429).

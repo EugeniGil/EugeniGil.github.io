@@ -24,9 +24,12 @@ with credible methods started.
 Recent updates
 ======
 
-- **[Sep 2026]**: Presenting at **[Data for Policy 2026]({{ base_path }}/talks/2026-09-08-data-for-policy)**
+- **[Sep 2026]**: Presented at **[Data for Policy 2026]({{ base_path }}/talks/2026-09-08-data-for-policy)**
   (Universitat Pompeu Fabra, Barcelona, 8–10 September) — *Transparent policy evaluation through
   causal machine learning*.
+- **[Sep 2026]**: Our conference abstract is now available in the
+  [Data for Policy 2026 Book of Abstracts](https://doi.org/10.5281/zenodo.22660429) (p. 110).
+  [Slides and working paper]({{ base_path }}/talks/2026-09-08-data-for-policy#materials).
 - **[Jun 2026]**: Masterclass on [Causal Random Forests]({{ base_path }}/talks/2026-06-30-causal-rf-carma)
   at the CARMA 2026 conference.
 - **[Jun 2026]**: New working paper — ["Transparent policy evaluation through causal machine learning: An application to SME digital subsidies"]({{ base_path }}/publication/2026-06-04-causal-ml-digital-subsidies).
